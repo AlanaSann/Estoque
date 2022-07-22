@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8pQwSEUz9567QKdnkITFT15T1cmV8+3qqjArlOylo96uQYkF1DKHvZ7LH1wC6ypaIrQZw5lPpy73Tor66hkgpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asoliveira\\source\\repos\\Estoque\\Estoque\\Estoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asoliveira\\.nuget\\packages\\gremlin.net\\3.6.0\\gremlin.net.3.6.0.nupkg.sha512",
+    "C:\\Users\\asoliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\asoliveira\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\asoliveira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\asoliveira\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\asoliveira\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
